@@ -10,7 +10,7 @@ echo "WELCOME TO MOBILE SEVA <br><br><br>";
 <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 <script>
 var options = {
-    "key": "rzp_live_i62TMLjjMFz5YG",
+    "key": "rzp_live_Q3dWQIa8lNm65E",
     "amount": "100", /// The amount is shown in currency subunits. Actual amount is ₹599.
     "name": "Mobile SEVA",
    // "order_id": "order_Eh6t5jMZkI6C7T", // Pass the order_id if you are using Razorpay Orders.
